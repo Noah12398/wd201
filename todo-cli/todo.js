@@ -89,3 +89,4 @@ const todoList = () => {
   console.log(formattedItemsDueLater)
   console.log("\n\n")
   
+  module.exports = todoList;
